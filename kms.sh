@@ -133,7 +133,6 @@ install_main() {
     echo "----------------------------------------"
     echo " Auto install KMS Server"
     echo
-    echo " URL: https://teddysun.com/530.html"
     echo "----------------------------------------"
     echo
     echo "Press any key to start...or Press Ctrl+C to cancel"
