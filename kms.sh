@@ -2,10 +2,7 @@
 #
 # Auto install KMS Server
 # System Required:  CentOS 6+, Debian7+, Ubuntu12+
-# Copyright (C) 2017-2018 Teddysun <i@teddysun.com>
-# URL: https://teddysun.com/530.html
-#
-# Thanks: https://github.com/Wind4/vlmcsd
+# Copyright (C) 2024 Baksteen91
 #
 
 red='\033[0;31m'
